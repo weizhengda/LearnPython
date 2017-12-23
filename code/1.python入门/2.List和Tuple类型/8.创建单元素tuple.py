@@ -1,0 +1,3 @@
+
+t = ('Adam',)
+print t
