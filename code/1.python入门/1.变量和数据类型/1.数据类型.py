@@ -7,7 +7,7 @@ print 45678 + 0x12fd2
 print "learn python in imooc"
 
 #布尔值
-print 100<99
+print 100<99 
 
 print 0xff ==255
 
